@@ -4,7 +4,7 @@ import java.sql.*;
 
 /**
  *
- * @author İzzet Yılmaz , Emir Can Uysal, Oğuzhan Odabaşı
+ * @author İzzet Yılmaz
  */
 
 
