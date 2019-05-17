@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Kemal-PC-2
+ * @author İzzet Yılmaz
  */
 public class addInstructor extends javax.swing.JFrame {
 
