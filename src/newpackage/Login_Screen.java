@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author No_0n3
+ * @author İzzet Yılmaz
  */
 public class Login_Screen extends javax.swing.JFrame {
     Set <String> authority = new LinkedHashSet<String>();
