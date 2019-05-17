@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author No_0n3
+ * @author İzzet Yılmaz
  */
 public class addStudent extends javax.swing.JFrame {
 
