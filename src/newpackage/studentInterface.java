@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author No_0n3
+ * @author İzzet Yılmaz
  */
 public class studentInterface extends javax.swing.JFrame {
 
