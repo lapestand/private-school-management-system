@@ -15,7 +15,7 @@ import javax.swing.table.*;
 
 /**
  *
- * @author Kemal-PC-2
+ * @author İzzet Yılmaz
  */
 public class addCourse extends javax.swing.JFrame {
 
