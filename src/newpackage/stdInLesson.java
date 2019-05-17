@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Emir-PC
+ * @author İzzet Yılmaz
  */
 public class stdInLesson extends javax.swing.JFrame {
 
