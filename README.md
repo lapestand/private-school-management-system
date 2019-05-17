@@ -1,0 +1,1 @@
+# private-school-menagament-system
